@@ -1,4 +1,4 @@
-![header](https://github.com/Rudradeep369/Rudradeep369/blob/main/Rudradeep%20Debnath.png)
+![header](Banner.png)
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=rudradeep369&label=Profile%20views&color=0e75b6&style=flat" alt="rudradeep369" /></p>
 
